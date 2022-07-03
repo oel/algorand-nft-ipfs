@@ -1,0 +1,23 @@
+{
+    "name": "algo-nft-ipfs",
+    "version": "1.0.0",
+    "description": "Algorand NFT with asset pinned to IPFS",
+    "scripts": {
+        "mint": "node algo-nft-ipfs.js"
+    },
+    "dependencies": {
+        "@algonaut/algo-validation-agent": "latest",
+        "@pinata/sdk": "latest",
+        "algosdk": "latest",
+        "bs58": "latest",
+        "dotenv": "latest",
+        "ipfs-core": "latest",
+        "ipfs-http-client": "latest",
+        "node-base64-image": "latest"
+    },
+    "devDependencies": {
+        "nodemon": "latest",
+        "parcel-bundler": "latest"
+    },
+    "keywords": []
+}
