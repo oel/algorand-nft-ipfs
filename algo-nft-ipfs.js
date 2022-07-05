@@ -4,7 +4,7 @@ const algosdk = require('algosdk');
 const bs58 = require('bs58');
 
 require('dotenv').config()
-const assetMetadata = require('./assetMetadata');
+const assetMetadata = require('./asset-metadata');
 
 const algodClient = new algosdk.Algodv2(
   process.env.algodClientToken,

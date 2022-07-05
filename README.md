@@ -74,4 +74,4 @@ Check it out at https://testnet.algoexplorer.io/asset/<assetID>
 
 To verify receipt of the NFT from within the Pera wallet, switch to Algorand Testnet (under Settings > Developer Settings > Node Settings) and something like below will be visible in the wallet:
 
-<img src="pera-nft_ninja-similey-1.png" alt="drawing" width="432" />
+<img src="pera-nft-ninja-similey-1.png" alt="drawing" width="432" />
